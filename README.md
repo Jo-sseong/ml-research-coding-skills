@@ -29,9 +29,10 @@ A practical instruction set for LLM-assisted machine learning research coding.
 특히 다음과 같은 문제를 줄이기 위한 목적을 가집니다:
 
 * 요구사항이 불명확한 상태에서의 코드 생성
+* 실험 설계 없이 구현부터 시작하는 패턴
 * 불필요하게 복잡한 구조
 * 과도한 일반화 및 추상화
-* 실험 설계 없이 구현부터 시작하는 패턴
+
 
 ### 사용 방법
 
@@ -71,9 +72,10 @@ This guideline was created to address the issue of LLMs generating code too quic
 In particular, it aims to reduce the following problems:
 
 * Generating code with unclear requirements
+* Starting implementation without experimental design
 * Unnecessarily complex structures
 * Over-generalization and excessive abstraction
-* Starting implementation without experimental design
+
 
 ### How to Use
 
